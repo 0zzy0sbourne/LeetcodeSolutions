@@ -5,7 +5,7 @@ In one step, you can move one cell up, down, left, or right. You cannot step int
 Return the number of steps in the shortest path from the entrance to the nearest exit, or -1 if no such path exists.
 
 
-![alt text](https://github.com/0zzy0sbourne/LeetcodeSolutions/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/0zzy0sbourne/LeetcodeSolutions/blob/main/maze.jpg?raw=true)
 
 
 Input: maze = [["+","+",".","+"],[".",".",".","+"],["+","+","+","."]], entrance = [1,2]
