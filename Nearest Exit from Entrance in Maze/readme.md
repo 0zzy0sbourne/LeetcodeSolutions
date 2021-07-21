@@ -21,3 +21,17 @@ Initially, you are at the entrance cell [1,2].
 It is impossible to reach [2,3] from the entrance.
 Thus, the nearest exit is [0,2], which is 1 step away.
 
+
+
+
+Constraints:
+
+maze.length == m
+maze[i].length == n
+1 <= m, n <= 100
+maze[i][j] is either '.' or '+'.
+entrance.length == 2
+0 <= entrancerow < m
+0 <= entrancecol < n
+entrance will always be an empty cell.
+
